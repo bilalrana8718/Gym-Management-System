@@ -1,0 +1,11 @@
+﻿GymID,Gym_Name,Location,PerformanceID,OwnerID,AdminID
+1,FitZone,New York,1,1,1
+2,PowerGym,Los Angeles,2,2,2
+3,IronWorks,Chicago,3,3,3
+4,BodyBlitz,Miami,4,4,4
+5,FlexFitness,Houston,5,5,5
+6,MuscleMania,San Francisco,6,6,6
+7,SlimCity,Seattle,7,7,7
+8,EliteGym,Boston,8,8,8
+9,ToneUp,Atlanta,9,9,9
+10,PeakPerformance,Denver,10,10,10

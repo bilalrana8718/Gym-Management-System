@@ -1,0 +1,26 @@
+﻿DietPlanID,DietPlan_Name,Type_of_Diet,Purpose,TrainerID
+1,Lean and Fit,Low-Carb,Weight Loss,1
+2,Muscle Gain,High-Protein,Muscle Building,2
+3,Balanced Diet,Mixed,General Health,3
+4,Keto Diet,Ketogenic,Weight Loss,4
+5,Vegan Lifestyle,Plant-Based,Healthy Living,5
+6,Gluten-Free Diet,Gluten-Free,Digestive Health,6
+7,Paleo Diet,Paleolithic,Nutritional Balance,7
+8,Intermittent Fasting,Fasting,Weight Management,8
+9,High-Fiber Diet,Fiber-Rich,Digestive Health,9
+10,Detox Plan,Detoxifying,Cleansing,10
+11,Low-Fat Diet,Low-Fat,Weight Loss,11
+12,Mediterranean Diet,Mediterranean,Heart Health,12
+13,Flexitarian Diet,Flexitarian,Balanced Nutrition,13
+14,Whole30 Diet,Whole30,Elimination Diet,14
+15,DASH Diet,DASH,Blood Pressure Control,15
+16,Alkaline Diet,Alkaline,pH Balance,16
+17,Anti-Inflammatory Diet,Anti-Inflammatory,Inflammation Reduction,17
+18,Low-Sodium Diet,Low-Sodium,Blood Pressure Control,18
+19,FODMAP Diet,FODMAP,Digestive Health,19
+20,Zone Diet,Zone,Balanced Nutrition,20
+21,South Beach Diet,South Beach,Weight Loss,1
+22,Raw Food Diet,Raw Food,Nutrient Intake,2
+23,Carnivore Diet,Carnivorous,Protein Focus,3
+24,Dukan Diet,Dukan,Weight Loss,4
+25,Atkins Diet,Atkins,Low-Carb,5
